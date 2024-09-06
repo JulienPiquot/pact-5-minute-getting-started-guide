@@ -1,7 +1,7 @@
 module.exports = [
   {
     id: 1,
-    items: [
+    item: [
       {
         name: "burger",
         quantity: 2,
